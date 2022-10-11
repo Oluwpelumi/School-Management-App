@@ -1,0 +1,1 @@
+web gunicorn SMSproject.wsgi:application --log-file -
